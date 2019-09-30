@@ -1,7 +1,7 @@
 # BiLSTM-CRF Sequence Labeling with Adversarial Training
 
 Implementation of BiLSTM-CRF model with adversarial training.   
-Paper: [Robust Multilingual Part-of-Speech Tagging via Adversarial Training](http://arxiv.org/abs/1711.04903).
+Paper: [Robust Multilingual Part-of-Speech Tagging via Adversarial Training](http://arxiv.org/abs/1711.04903) (NAACL 2018).
 
 ## Requirements
 
